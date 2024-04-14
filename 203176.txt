@@ -1,0 +1,21 @@
+1./
+2./
+3./
+4.-со $ mkdir SI_2024_lab1_203176 се креира нов директориум(локално репо)
+-со $ cd SI_2024_lab1_203176/ се влегува во директориумот
+- со git init се иницијализира git во локалното репо.
+5.-со $ git remote add origin https://github.com/TrAngjel/SI_2024_lab1_203176.git се поврува локалното репо со github remote репото.
+6.-со $ nano README.md се креира README.md датотеката и во едиторот ги внесуваме личните податоци
+- со git ad README.md се става датотеката на stage
+- со $ git commit -m "Initial commit" се прави првиот commit
+7. - со командите $ git add SILab1_1.java, $ git add SILab1_2.java, $ git add SILab1Main.java фајловите се ставаат на stage
+- со $ git commit -m "Add starter code" се прави commit
+8. - со $ git push --all се прави синхронизација на сите гранки од локалното репо со remote репото
+
+28. - со $ git log се прикажуваат сите git логови
+- со $ nano logs.txt се креира фајл и се внесуваат логовите во едиторот
+- со $ nano 203176.txt се креира овој фајл и во едиторт ке биде копиран целиот текст  
+- со $ git add logs.txt и $ git add 203176.txt се ставаат фајловите на stage
+- со $ git commit -m "Final commit" се прави последниот commit
+29.- со $ git push --all се прави синхронизација на сите гранки од локалното репо со remote репото
+

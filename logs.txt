@@ -1,0 +1,11 @@
+commit 2b2cc809767ae0fc7d64d1f38b496428f5651ba3 (HEAD -> master, origin/master)
+Author: TrAngjel <trajkovski.angjel@gmail.com>
+Date:   Sun Apr 14 23:04:19 2024 +0200
+
+    Add starter code
+
+commit a6bb9dd841457ed8102a2b9a55111e60f99e208c
+Author: TrAngjel <trajkovski.angjel@gmail.com>
+Date:   Sun Apr 14 23:02:40 2024 +0200
+
+    Initial commit
